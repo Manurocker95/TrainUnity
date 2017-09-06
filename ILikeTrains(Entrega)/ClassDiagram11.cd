@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameManager">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAhEAQICiAAIqJJABQAQIAACBAADIESAhIAAAAAUQ=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQKCEEKiAAggAAACAAojAAASgAgAAgEkAEAACIChA=</HashCode>
+      <FileName>Assets\Scripts\Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainLight">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAACAAACAAAAAAABBAAAAUAAAAAQAAoBAAEABA=</HashCode>
+      <FileName>Assets\Scripts\TrainLight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainManager">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAEAAABAAAAAAAAAAAAABAAAAEQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TrainManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
